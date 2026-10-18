@@ -1,6 +1,6 @@
 {
-    "name": "full_alive",
-    "short_name": "full_alive",
+    "name": "Full Alive",
+    "short_name": "Full Alive",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
